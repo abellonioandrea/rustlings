@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abellonioandrea&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rust-lang/rustlings.git&quot;,
+    &quot;accountId&quot;: &quot;0825a13c-a469-4a66-b97f-edbaa599afb9&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bzCvfiTS" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vAj691jjZJ3S5PTSJX0vgk8kEO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Run enums1.executor": "Debug",
+    "Cargo.Run enums2.executor": "Run",
+    "Cargo.Run errors3.executor": "Run",
+    "Cargo.Run errors5.executor": "Run",
+    "Cargo.Run errors6.executor": "Run",
+    "Cargo.Run functions1.executor": "Run",
+    "Cargo.Run functions2.executor": "Run",
+    "Cargo.Run functions3.executor": "Run",
+    "Cargo.Run functions4.executor": "Run",
+    "Cargo.Run functions5.executor": "Run",
+    "Cargo.Run intro1.executor": "Run",
+    "Cargo.Run intro2.executor": "Run",
+    "Cargo.Run modules1.executor": "Run",
+    "Cargo.Run modules2.executor": "Run",
+    "Cargo.Run modules3.executor": "Debug",
+    "Cargo.Run move_semantics5.executor": "Run",
+    "Cargo.Run options3.executor": "Run",
+    "Cargo.Run primitive_types1.executor": "Run",
+    "Cargo.Run primitive_types2.executor": "Run",
+    "Cargo.Run primitive_types3.executor": "Run",
+    "Cargo.Run primitive_types5.executor": "Run",
+    "Cargo.Run rustlings.executor": "Run",
+    "Cargo.Run strings1.executor": "Run",
+    "Cargo.Run strings2.executor": "Run",
+    "Cargo.Run strings4.executor": "Run",
+    "Cargo.Run variables2.executor": "Run",
+    "Cargo.Run variables3.executor": "Run",
+    "Cargo.Run variables4.executor": "Run",
+    "Cargo.Run variables5.executor": "Run",
+    "Cargo.Run variables6.executor": "Run",
+    "Cargo.Test enums3::tests.executor": "Run",
+    "Cargo.Test errors1::tests.executor": "Run",
+    "Cargo.Test errors2::tests.executor": "Run",
+    "Cargo.Test errors4::tests.executor": "Run",
+    "Cargo.Test errors6::test.executor": "Run",
+    "Cargo.Test hashmaps1::tests.executor": "Run",
+    "Cargo.Test hashmaps2::tests.executor": "Run",
+    "Cargo.Test hashmaps3::tests.executor": "Run",
+    "Cargo.Test if1::tests.executor": "Run",
+    "Cargo.Test if2::tests.executor": "Run",
+    "Cargo.Test if3::tests.executor": "Run",
+    "Cargo.Test move_semantics1::tests.executor": "Run",
+    "Cargo.Test move_semantics2::tests.executor": "Run",
+    "Cargo.Test move_semantics3::tests.executor": "Run",
+    "Cargo.Test options1::tests.executor": "Run",
+    "Cargo.Test options2::tests.executor": "Run",
+    "Cargo.Test primitive_types4::tests.executor": "Run",
+    "Cargo.Test strings3::tests.executor": "Run",
+    "Cargo.Test structs1::tests.executor": "Run",
+    "Cargo.Test structs2::tests.executor": "Run",
+    "Cargo.Test structs3::tests.executor": "Run",
+    "Cargo.Test tests::indexing_tuple.executor": "Run",
+    "Cargo.Test tests::layered_option.executor": "Run",
+    "Cargo.Test tests::move_semantics2.executor": "Run",
+    "Cargo.Test tests::move_semantics4.executor": "Run",
+    "Cargo.Test tests::test_vec_loop.executor": "Run",
+    "Cargo.Test tests::test_vec_map.executor": "Run",
+    "Cargo.Test vecs1::tests.executor": "Run",
+    "Cargo.Test vecs2::tests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Test errors6::test">
+    <configuration name="Run errors3" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package exercises --bin errors3" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run errors5" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package exercises --bin errors5" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run errors6" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package exercises --bin errors6" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run rustlings" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package rustlings --bin rustlings" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test errors4::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="test" />
+      <option name="command" value="test --package exercises --bin errors4 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test errors6::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="test" />
+      <option name="command" value="test --package exercises --bin errors6 test" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test rustlings" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test errors6::test" />
+        <item itemvalue="Cargo.Run errors6" />
+        <item itemvalue="Cargo.Run errors5" />
+        <item itemvalue="Cargo.Test errors4::tests" />
+        <item itemvalue="Cargo.Run errors3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="" />
+      <created>1743594595011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743594595011</updated>
+      <workItem from="1743594596371" duration="1106000" />
+      <workItem from="1743757570721" duration="19000" />
+      <workItem from="1743784117764" duration="4173000" />
+      <workItem from="1743843471308" duration="3157000" />
+      <workItem from="1744016825902" duration="630000" />
+      <workItem from="1744033894465" duration="8875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
