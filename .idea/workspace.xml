@@ -7,7 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="" />
+    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="first commit rustlings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +23,12 @@
     &quot;assignee&quot;: &quot;abellonioandrea&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rust-lang/rustlings.git&quot;,
-    &quot;accountId&quot;: &quot;0825a13c-a469-4a66-b97f-edbaa599afb9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abellonioandrea/rustlings.git",
+    "accountId": "0825a13c-a469-4a66-b97f-edbaa599afb9"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="bzCvfiTS" />
   </component>
@@ -269,12 +269,25 @@
       <workItem from="1743784117764" duration="4173000" />
       <workItem from="1743843471308" duration="3157000" />
       <workItem from="1744016825902" duration="630000" />
-      <workItem from="1744033894465" duration="8875000" />
+      <workItem from="1744033894465" duration="9188000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit rustlings">
+      <option name="closed" value="true" />
+      <created>1744044415855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744044415856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit rustlings" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit rustlings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
