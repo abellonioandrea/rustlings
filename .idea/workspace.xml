@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="first commit rustlings" />
+    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="finished errors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,12 +39,12 @@
     &quot;assignee&quot;: &quot;abellonioandrea&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abellonioandrea/rustlings.git",
-    "accountId": "0825a13c-a469-4a66-b97f-edbaa599afb9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abellonioandrea/rustlings.git&quot;,
+    &quot;accountId&quot;: &quot;0825a13c-a469-4a66-b97f-edbaa599afb9&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="bzCvfiTS" />
   </component>
@@ -52,8 +68,11 @@
     "Cargo.Run functions3.executor": "Run",
     "Cargo.Run functions4.executor": "Run",
     "Cargo.Run functions5.executor": "Run",
+    "Cargo.Run generics1.executor": "Run",
     "Cargo.Run intro1.executor": "Run",
     "Cargo.Run intro2.executor": "Run",
+    "Cargo.Run lifetimes2.executor": "Run",
+    "Cargo.Run lifetimes3.executor": "Run",
     "Cargo.Run modules1.executor": "Run",
     "Cargo.Run modules2.executor": "Run",
     "Cargo.Run modules3.executor": "Debug",
@@ -67,6 +86,7 @@
     "Cargo.Run strings1.executor": "Run",
     "Cargo.Run strings2.executor": "Run",
     "Cargo.Run strings4.executor": "Run",
+    "Cargo.Run traits1.executor": "Run",
     "Cargo.Run variables2.executor": "Run",
     "Cargo.Run variables3.executor": "Run",
     "Cargo.Run variables4.executor": "Run",
@@ -77,12 +97,14 @@
     "Cargo.Test errors2::tests.executor": "Run",
     "Cargo.Test errors4::tests.executor": "Run",
     "Cargo.Test errors6::test.executor": "Run",
+    "Cargo.Test generics2::tests.executor": "Run",
     "Cargo.Test hashmaps1::tests.executor": "Run",
     "Cargo.Test hashmaps2::tests.executor": "Run",
     "Cargo.Test hashmaps3::tests.executor": "Run",
     "Cargo.Test if1::tests.executor": "Run",
     "Cargo.Test if2::tests.executor": "Run",
     "Cargo.Test if3::tests.executor": "Run",
+    "Cargo.Test lifetimes1::tests.executor": "Run",
     "Cargo.Test move_semantics1::tests.executor": "Run",
     "Cargo.Test move_semantics2::tests.executor": "Run",
     "Cargo.Test move_semantics3::tests.executor": "Run",
@@ -99,6 +121,11 @@
     "Cargo.Test tests::move_semantics4.executor": "Run",
     "Cargo.Test tests::test_vec_loop.executor": "Run",
     "Cargo.Test tests::test_vec_map.executor": "Run",
+    "Cargo.Test traits1::tests.executor": "Run",
+    "Cargo.Test traits2::tests.executor": "Run",
+    "Cargo.Test traits3::tests.executor": "Run",
+    "Cargo.Test traits4::tests.executor": "Run",
+    "Cargo.Test traits5::tests.executor": "Run",
     "Cargo.Test vecs1::tests.executor": "Run",
     "Cargo.Test vecs2::tests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -117,10 +144,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Test errors6::test">
-    <configuration name="Run errors3" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+  <component name="RunManager" selected="Cargo.Run lifetimes3">
+    <configuration name="Run lifetimes2" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="buildProfileId" value="dev" />
-      <option name="command" value="run --package exercises --bin errors3" />
+      <option name="command" value="run --package exercises --bin lifetimes2" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -136,27 +163,8 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run errors5" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="buildProfileId" value="dev" />
-      <option name="command" value="run --package exercises --bin errors5" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run errors6" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="buildProfileId" value="dev" />
-      <option name="command" value="run --package exercises --bin errors6" />
+    <configuration name="Run lifetimes3" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package exercises --bin lifetimes3" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -190,27 +198,8 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test errors4::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="buildProfileId" value="test" />
-      <option name="command" value="test --package exercises --bin errors4 tests" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test errors6::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="buildProfileId" value="test" />
-      <option name="command" value="test --package exercises --bin errors6 test" />
+    <configuration name="Test lifetimes1::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin lifetimes1 tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -243,13 +232,47 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test traits4::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin traits4 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test traits5::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin traits5 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo.Test errors6::test" />
-        <item itemvalue="Cargo.Run errors6" />
-        <item itemvalue="Cargo.Run errors5" />
-        <item itemvalue="Cargo.Test errors4::tests" />
-        <item itemvalue="Cargo.Run errors3" />
+        <item itemvalue="Cargo.Run lifetimes3" />
+        <item itemvalue="Cargo.Run lifetimes2" />
+        <item itemvalue="Cargo.Test lifetimes1::tests" />
+        <item itemvalue="Cargo.Test traits4::tests" />
+        <item itemvalue="Cargo.Test traits5::tests" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +292,9 @@
       <workItem from="1743784117764" duration="4173000" />
       <workItem from="1743843471308" duration="3157000" />
       <workItem from="1744016825902" duration="630000" />
-      <workItem from="1744033894465" duration="9188000" />
+      <workItem from="1744033894465" duration="9478000" />
+      <workItem from="1744395777026" duration="290000" />
+      <workItem from="1744474493989" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="first commit rustlings">
       <option name="closed" value="true" />
@@ -279,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744044415856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished errors">
+      <option name="closed" value="true" />
+      <created>1744044810774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744044810774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +320,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit rustlings" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit rustlings" />
+    <MESSAGE value="finished errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished errors" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
