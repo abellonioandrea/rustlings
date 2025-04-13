@@ -11,25 +11,39 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="finished errors">
+    <list default="true" id="aa9abee4-17c9-45a6-ba39-afa89796caf2" name="Changes" comment="finished iterators">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -104,6 +118,11 @@
     "Cargo.Test if1::tests.executor": "Run",
     "Cargo.Test if2::tests.executor": "Run",
     "Cargo.Test if3::tests.executor": "Run",
+    "Cargo.Test iterators1::tests.executor": "Run",
+    "Cargo.Test iterators2::tests.executor": "Run",
+    "Cargo.Test iterators3::tests.executor": "Run",
+    "Cargo.Test iterators4::tests.executor": "Run",
+    "Cargo.Test iterators5::tests.executor": "Run",
     "Cargo.Test lifetimes1::tests.executor": "Run",
     "Cargo.Test move_semantics1::tests.executor": "Run",
     "Cargo.Test move_semantics2::tests.executor": "Run",
@@ -115,10 +134,16 @@
     "Cargo.Test structs1::tests.executor": "Run",
     "Cargo.Test structs2::tests.executor": "Run",
     "Cargo.Test structs3::tests.executor": "Run",
+    "Cargo.Test tests1::tests.executor": "Run",
+    "Cargo.Test tests2::tests.executor": "Run",
+    "Cargo.Test tests3::tests.executor": "Run",
+    "Cargo.Test tests::correct_width_and_height.executor": "Run",
     "Cargo.Test tests::indexing_tuple.executor": "Run",
     "Cargo.Test tests::layered_option.executor": "Run",
     "Cargo.Test tests::move_semantics2.executor": "Run",
     "Cargo.Test tests::move_semantics4.executor": "Run",
+    "Cargo.Test tests::negative_height.executor": "Run",
+    "Cargo.Test tests::negative_width.executor": "Run",
     "Cargo.Test tests::test_vec_loop.executor": "Run",
     "Cargo.Test tests::test_vec_map.executor": "Run",
     "Cargo.Test traits1::tests.executor": "Run",
@@ -144,42 +169,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run lifetimes3">
-    <configuration name="Run lifetimes2" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="buildProfileId" value="dev" />
-      <option name="command" value="run --package exercises --bin lifetimes2" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run lifetimes3" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package exercises --bin lifetimes3" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cargo.Test iterators5::tests">
     <configuration name="Run rustlings" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="buildProfileId" value="dev" />
       <option name="command" value="run --package rustlings --bin rustlings" />
@@ -198,8 +188,76 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test lifetimes1::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package exercises --bin lifetimes1 tests" />
+    <configuration name="Test iterators1::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin iterators1 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test iterators2::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin iterators2 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test iterators3::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin iterators3 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test iterators4::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin iterators4 tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test iterators5::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package exercises --bin iterators5 tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -232,47 +290,13 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test traits4::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package exercises --bin traits4 tests" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test traits5::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package exercises --bin traits5 tests" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo.Run lifetimes3" />
-        <item itemvalue="Cargo.Run lifetimes2" />
-        <item itemvalue="Cargo.Test lifetimes1::tests" />
-        <item itemvalue="Cargo.Test traits4::tests" />
-        <item itemvalue="Cargo.Test traits5::tests" />
+        <item itemvalue="Cargo.Test iterators5::tests" />
+        <item itemvalue="Cargo.Test iterators4::tests" />
+        <item itemvalue="Cargo.Test iterators3::tests" />
+        <item itemvalue="Cargo.Test iterators2::tests" />
+        <item itemvalue="Cargo.Test iterators1::tests" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +318,8 @@
       <workItem from="1744016825902" duration="630000" />
       <workItem from="1744033894465" duration="9478000" />
       <workItem from="1744395777026" duration="290000" />
-      <workItem from="1744474493989" duration="1301000" />
+      <workItem from="1744474493989" duration="1452000" />
+      <workItem from="1744536413706" duration="5651000" />
     </task>
     <task id="LOCAL-00001" summary="first commit rustlings">
       <option name="closed" value="true" />
@@ -312,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744044810774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished lifetimes">
+      <option name="closed" value="true" />
+      <created>1744475824963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744475824964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +354,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit rustlings" />
     <MESSAGE value="finished errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished errors" />
+    <MESSAGE value="finished lifetimes" />
+    <MESSAGE value="finished iterators" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished iterators" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
